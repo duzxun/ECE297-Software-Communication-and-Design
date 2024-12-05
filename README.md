@@ -2,6 +2,8 @@
 
 MegaMap is a Geographic Information System (GIS) developed using C++ and the EZGL library, leveraging StreetsDatabase and OSMDatabase APIs to deliver an intuitive and interactive mapping experience.
 
+https://github.com/user-attachments/assets/820a7e44-14f7-4999-b469-ae7aa4a73c54
+
 ## Features
 **1. Interactive Mapping**
 - View detailed maps of cities worldwide.
