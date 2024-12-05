@@ -24,9 +24,5 @@ https://github.com/user-attachments/assets/001aac8c-dcdd-4642-99f7-ed2cd887b128
 - Minimizes graphic load for smooth performance.
 - Seamlessly adapts to user interactions, making navigation effortless.
 
-**Demo**
-Watch the features in action in the demo video linked below:
-[MegaMap, Geographic Information System Software](https://d-uzun.wixsite.com/deniz-uzun/post/megamap-geographic-information-system-software)
-
 ## Learn More:
 - [MegaMap, Geographic Information System Software](https://d-uzun.wixsite.com/deniz-uzun/post/megamap-geographic-information-system-software)
